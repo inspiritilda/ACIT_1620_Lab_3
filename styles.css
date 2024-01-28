@@ -8,11 +8,7 @@ body {
 form {
     border: 1px solid #ccc;
     padding: 1rem;
-    float: left;
-    width: 500px;
-    width: 75%;
-    margin-right: 0%;
-    margin-left: 0;
+    margin-left: 10rem;
 }
 
 input,
